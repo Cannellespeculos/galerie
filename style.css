@@ -10,9 +10,13 @@ body {
 }
 
 header {
+  background: url(bruno-guerrero-rmk9u2Kh9Js-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: 10%;
   display: flex;
   justify-content: center;
-  padding: 40px;
+  padding: 80px;
   border-bottom: 2px solid black;
 }
 
